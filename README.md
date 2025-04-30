@@ -32,7 +32,7 @@ Além disso, inclui:
   <img src="preview-age.png" />
 </p>
 
-##✒️ Colaboração
+## ✒️ Colaboração
 
-**JavaScript**: Desenvolvido por **[Raphael](https://github.com/Spaceza)**
-**HTML** e **CSS**: Estrutura fornecida pela professora **[Ana Luisa Santos](https://github.com/analuisadev)** como base de referência para o projeto
+- **JavaScript**: Desenvolvido por **[Raphael](https://github.com/Spaceza)**
+- **HTML** e **CSS**: Estrutura fornecida pela professora **[Ana Luisa Santos](https://github.com/analuisadev)** como base de referência para o projeto
