@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" type="image/png" sizes="32x32" href="./src/images/favicon-32x32.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="src/css/index.css" />
+  <script src="src/js/script.js"></script>
+  <title>Age calculator app</title>
+</head>
+
+<body>
+  <main id="app">
+    <form>
+      <div class="input-form">
+        <div class="input">
+          <label for="day">Day</label>
+          <input type="number" name="day" id="day" placeholder="DD" min="0">
+          <span class="field-required hide">This field is required</span>
+          <span class="valid-info hide">Must be a valid day</span>
+        </div>
+
+        <div class="input">
+          <label for="month">Month</label>
+          <input type="number" name="month" id="month" placeholder="MM" min="0">
+          <span class="field-required hide">This field is required</span>
+          <span class="valid-info hide">Must be a valid month</span>
+        </div>
+
+        <div class="input">
+          <label for="year">Year</label>
+          <input type="number" name="year" id="year" placeholder="YYYY" min="0">
+          <span class="field-required hide">This field is required</span>
+          <span class="valid-info hide">Must be in the past</span>
+        </div>
+      </div>
+
+      <div class="register">
+        <div class="thin-line"></div>
+        <button type="submit">
+          <img src="src/images/icon-arrow.svg" alt="">
+        </button>
+      </div>
+    </form>
+
+    <div class="age-information">
+      <p><span class="year">--</span> years</p>
+      <p><span class="month">--</span> months</p>
+      <p><span class="day">--</span> days</p>
+    </div>
+  </main>
+
+</body>
+
+</html>
