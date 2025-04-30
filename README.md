@@ -33,6 +33,6 @@ Além disso, inclui:
 </p>
 
 ##✒️ Colaboração
-JavaScript: Desenvolvido por Raphael
+JavaScript: Desenvolvido por **Raphael**
 
 HTML e CSS: Estrutura fornecida pela professora **[Ana Luisa Santos](https://github.com/analuisadev)** como base de referência para o projeto
