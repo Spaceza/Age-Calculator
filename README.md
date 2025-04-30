@@ -29,7 +29,9 @@ Além disso, inclui:
 
 ## 📸 Preview
 
+<p align="center">
   <img src="preview-age.png" />
+</p>
 
 ## ✒️ Colaboração
 
