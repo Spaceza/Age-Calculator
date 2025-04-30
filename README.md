@@ -29,9 +29,8 @@ Além disso, inclui:
 
 ## 📸 Preview
 
-<p align="center">
   ![preview](preview-age.png)
-</p>
+
 
 ## ✒️ Colaboração
 
