@@ -30,7 +30,7 @@ Além disso, inclui:
 ## 📸 Preview
 
 <p align="center">
-  <img src="preview-age.png" />
+  ![preview](preview-age.png)
 </p>
 
 ## ✒️ Colaboração
