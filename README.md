@@ -35,4 +35,4 @@ Além disso, inclui:
 ##✒️ Colaboração
 JavaScript: Desenvolvido por Raphael
 
-HTML e CSS: Estrutura fornecida pela professora [Ana Luisa Santos](https://github.com/analuisadev)como base de referência para o projeto
+HTML e CSS: Estrutura fornecida pela professora **[Ana Luisa Santos](https://github.com/analuisadev)** como base de referência para o projeto
