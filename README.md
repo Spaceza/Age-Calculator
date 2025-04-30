@@ -23,6 +23,7 @@ Aplicativo web simples e moderno para calcular com precisão a idade com base em
 Este projeto utiliza a `Date()` do JavaScript para calcular a diferença entre a data atual e a data de nascimento fornecida pelo usuário.  
 Além disso, inclui:
 
+
 - Verificações manuais para dia, mês e ano válidos
 - Ajustes para casos em que o dia ou mês atual ainda não foi alcançado no ano corrente
 
